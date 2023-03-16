@@ -1,3 +1,15 @@
+# Proyecto entrega final para curso de React de CoderHouse
+Este proyecto es un ecommerce de productos del juego de rol D&D.
+instale algunos npm para darle mas sabor al proyecto como bootstrap, sweetalert2(para las confirmaciones del carrito y notificaciones)
+sweetalert para poner efectos de sonido y firebase para la base de datos.
+No encontre muy buenas imagenes para el background del css pero queria que fuera una taberna medieval por eso los background de taberna y madera
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
