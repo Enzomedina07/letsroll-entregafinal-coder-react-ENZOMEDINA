@@ -1,0 +1,39 @@
+.nav-container{
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-image: url(../../../assets/wood.jfif);
+}
+.nav-brand{
+    width: 70px;
+    border: 2px solid pink;
+    border-radius: 50px;
+}
+.navegacion{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: auto;
+}
+@font-face {
+    font-family: dnd;
+    src: url(../../../assets/DragonHunter-9Ynxj.otf);
+}
+.navegacion a{
+    margin: 30px;
+    text-shadow: 2px 0 #fff, -1px 0 #fff, 0 0px #fff, 0 -1px #fff,
+            1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
+            font-family: dnd;
+            font-size: 30px;
+}
+
+.claseActive{
+    color: red;
+}
+.claseInactive{
+    color: blue;
+}

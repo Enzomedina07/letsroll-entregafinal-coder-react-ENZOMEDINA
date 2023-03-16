@@ -1,0 +1,35 @@
+.tarjeta-producto{
+    width: 150px;
+    height: auto;
+    margin: 10px;
+    padding: 20px;
+    background-color: #243746;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.tarjeta-producto h4, p{
+    margin: 0px;
+    font-size: 20px;
+    color: white;
+    font-family: dnd;
+    letter-spacing: 1px;
+    margin-top: 15px;
+}
+.tarjeta-producto img{
+    width: 100%;
+}
+.boton-ver{
+    font-size: 20px;
+    padding: 2px;
+    border-radius: 5px;
+    background-color: #243746;
+    color: white;
+    margin: 2px;
+}
+@font-face {
+    font-family: dnd;
+    src: url(../../../assets/DragonHunter-9Ynxj.otf);
+}

@@ -1,0 +1,12 @@
+.estilos-listado{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+    background-image: url(../../../assets/tavern.jpg);
+    background-position: center;
+    background-size: contain;
+    color: black;
+    width: 90%;
+    height: auto;
+}

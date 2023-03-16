@@ -1,0 +1,16 @@
+.woody-medieval-button {
+    padding: 10px 20px;
+    background-color: #b8a49d;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    font-family: "Old English Text MT", "Brush Script MT", cursive;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .woody-medieval-button:hover {
+    background-color: #8b7d76;
+  }
+  

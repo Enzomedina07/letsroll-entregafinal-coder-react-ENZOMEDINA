@@ -1,0 +1,19 @@
+@font-face {
+    font-family: dnd;
+    src: url(../../../assets/DragonHunter-9Ynxj.otf);
+}
+.carrito{
+    font-family: dnd;
+}
+.cart-container{
+    background-image: url(../../../assets/wood.jfif);
+}
+h2{
+    font-family: dnd;
+    color: aliceblue;
+    
+}
+label{
+    font-size: 20px;
+    color: aliceblue;
+}

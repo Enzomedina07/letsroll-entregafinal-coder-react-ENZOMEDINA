@@ -1,0 +1,22 @@
+.cart-item-container{
+    background-color: #583E26;
+    width: 60%;
+    border-radius: 10px;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.cart-img-container{
+    display: flex;
+    width: 30%;
+    justify-content: center;
+    align-items: center;
+}
+.cart-img-container>img{
+    width: 120px;
+    height: auto;
+}
+.cart-info-container{
+    width: 70%;
+}
